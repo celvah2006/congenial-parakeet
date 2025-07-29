@@ -35,3 +35,12 @@ A free and easy-to-use web tool to create your own portfolio website without any
 MIT – Use it freely for personal or commercial projects.
 
 
+# 🙏 Support This Project
+
+If you find this project helpful, consider supporting it!
+
+### 📲 Scan to Donate
+
+![Donate via QR Code](image.png)
+
+
