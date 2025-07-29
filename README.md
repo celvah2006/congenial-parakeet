@@ -41,6 +41,6 @@ If you find this project helpful, consider supporting it!
 
 ### 📲 Scan to Donate
 
-![Donate via QR Code](image.png)
+![Donate via QR Code](IMG-20250729-WA0001.jpg)
 
 
